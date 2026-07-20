@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9683578e922be01478a4341ad17cb556, type: 3}
+  m_Name: Level_01
+  m_EditorClassIdentifier: 
+  shelfItems:
+  - displayName: Bread
+    prefab: {fileID: 6776319618893663373, guid: c0865065f3d658248b93dd18e4d49904, type: 3}
+    weightGrams: 30
+    mysteryVariance: 3
+  mysteryItem:
+    displayName: Cheese
+    prefab: {fileID: 5338343813045835333, guid: 90f9782e5bcfe60499f5e3aed20c0b4a, type: 3}
+    weightGrams: 20
+    mysteryVariance: 2
+  mysteryCount: 1
+  showInstruction: 1
+  instructionText: 'A newly appeared food sits on the left side of the scale. Your
+    job is to guess its weight in grams.
+
+    Hover over a food on the shelf to select
+    it.
+
+    Press ''E'' to place it on the right pan, or ''F'' to place it on the
+    left.
+
+    Press ''E'' or ''F'' again on a placed item to take it back off.
+
+    When
+    you''re confident, type your guess and hit Submit Guess. The closer you are,
+    the more stars you earn! Good luck and thanks for playing!'

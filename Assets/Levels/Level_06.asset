@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9683578e922be01478a4341ad17cb556, type: 3}
+  m_Name: Level_06
+  m_EditorClassIdentifier: 
+  shelfItems:
+  - displayName: Bread
+    prefab: {fileID: 6776319618893663373, guid: c0865065f3d658248b93dd18e4d49904, type: 3}
+    weightGrams: 30
+    mysteryVariance: 3
+  - displayName: Cheese
+    prefab: {fileID: 5338343813045835333, guid: 90f9782e5bcfe60499f5e3aed20c0b4a, type: 3}
+    weightGrams: 20
+    mysteryVariance: 2
+  - displayName: Strawberry
+    prefab: {fileID: 8746259638779660407, guid: 4e8dbc6685f83e943ac851775448f6ae, type: 3}
+    weightGrams: 70
+    mysteryVariance: 7
+  - displayName: Avocado
+    prefab: {fileID: 6031503807016022055, guid: ed8b45c32634cb748b77e10edad5be0f, type: 3}
+    weightGrams: 150
+    mysteryVariance: 15
+  - displayName: Banana
+    prefab: {fileID: 8932669490398814342, guid: 5c4d347fc8b8f2944b95b8495377a910, type: 3}
+    weightGrams: 120
+    mysteryVariance: 12
+  - displayName: Croissant
+    prefab: {fileID: 7001801087020487875, guid: dca6c4df3bab35047ba7704de0117315, type: 3}
+    weightGrams: 225
+    mysteryVariance: 22
+  mysteryItem:
+    displayName: Apple
+    prefab: {fileID: 5891603015223026480, guid: ad57b1ec82e835645b87de2ae0e32129, type: 3}
+    weightGrams: 180
+    mysteryVariance: 18
+  mysteryCount: 1
+  showInstruction: 0
+  instructionText: 
