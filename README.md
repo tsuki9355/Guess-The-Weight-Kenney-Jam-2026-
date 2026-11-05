@@ -6,9 +6,10 @@
 
 Made solo in 2 days for **[Kenney Jam 2026](https://itch.io/jam/kenney-jam-2026)** (theme: *Scale*) · Unity 6 · C# · URP
 
-[**▶ Play in your browser on itch.io**](https://tsuki-0505.itch.io/guess-the-weight) · [**🎬 Watch the demo**](docs/guess-the-weight-gameplay-demo.mp4)
+[**▶ Play in your browser on itch.io**](https://tsuki-0505.itch.io/guess-the-weight) · [**🎬 Watch the demo**](https://github.com/user-attachments/assets/9d8aa6ac-fc35-4ecd-92e5-2dda7f136a46)
 
-![Gameplay](docs/gameplay.gif)
+![Gameplay](<img width="800" height="450" alt="gameplay" src="https://github.com/user-attachments/assets/db002d8c-29e1-47d7-aa25-e722bb9ba0ae" />
+)
 
 </div>
 
