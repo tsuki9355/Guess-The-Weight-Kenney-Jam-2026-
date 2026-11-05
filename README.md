@@ -22,10 +22,14 @@ A mystery food drops onto the left pan of a balance scale. You have a shelf of f
 The closer you get, the more stars you earn. Earn at least two stars to unlock the next stage.
 
 <p align="center">
-  <img src="docs/title.jpg" width="49%" alt="Title screen">
-  <img src="docs/hover.jpg" width="49%" alt="Hovering a food on the shelf shows its weight">
-  <img src="docs/twin.jpg" width="49%" alt="Stage 5: two mystery croissants on the left pan">
-  <img src="docs/perfect.jpg" width="49%" alt="Perfect guess: blue stars">
+  <img src="<img width="1600" height="900" alt="title" src="https://github.com/user-attachments/assets/183d21e2-af35-47b7-8d6a-3ad38169f000" />
+" width="49%" alt="Title screen">
+  <img src="**<img width="1600" height="900" alt="hover" src="https://github.com/user-attachments/assets/cd820dd9-9af1-4abc-b17f-fcd3e3de11a3" />
+**" width="49%" alt="Hovering a food on the shelf shows its weight">
+  <img src="<img width="1600" height="900" alt="twin" src="https://github.com/user-attachments/assets/97027c17-60f2-42bd-a3d1-46b994472e45" />
+" width="49%" alt="Stage 5: two mystery croissants on the left pan">
+  <img src="<img width="1600" height="900" alt="perfect" src="https://github.com/user-attachments/assets/e58f31b9-3c3c-4b62-9c5b-ef269431c875" />
+" width="49%" alt="Perfect guess: blue stars">
 </p>
 
 ## How to play
